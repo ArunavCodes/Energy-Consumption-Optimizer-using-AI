@@ -87,8 +87,9 @@ The project demonstrates the potential of AI in optimizing energy consumption wi
 ### Energy Savings
 - The AI system reduces cumulative energy consumption by approximately **17%** compared to the non-AI baseline, as calculated using the following formula:  
   $$
-  \text{Savings (\%)} = \frac{\text{Non-AI Energy - AI Energy}}{\text{Non-AI Energy}} \times 100
-  $$
+\text{Savings (\%)} = \frac{\text{Non-AI Energy} - \text{AI Energy}}{\text{Non-AI Energy}} \times 100
+$$
+
   Example:
   - AI Energy Consumption: **225.50 units**  
   - Non-AI Energy Consumption: **273.00 units**  
